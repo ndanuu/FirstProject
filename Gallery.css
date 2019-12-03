@@ -1,0 +1,202 @@
+/*Animals*/
+
+    
+
+ul{ 
+    rmlist-style: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: darkslategray;
+    position: fixed;
+    height: 100%;
+    float: left;
+
+    
+    
+    
+
+}
+li a{
+    text-decoration: none;
+    padding: 40px 90px;
+    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    display: block;
+
+}
+.dogs{
+    padding-left:50px ;
+    float: left;
+}
+img{
+    height: 350px;
+    width: 300px;
+}
+.dog-names{
+    width: 70%;
+    float: right;
+}
+h1{
+    margin-left: 50%;
+    color: green;
+    
+}
+
+/*Birds*/
+
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: darkslategray;
+    position: fixed;
+    height: 100%;
+    float: left;
+
+}
+li a{
+    text-decoration: none;
+    padding: 40px 90px;
+    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    display: block;
+
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+.img-bird {
+    float: left;
+    padding-left: 50px;
+}
+.image-names {
+    float: right;
+    width: 70%;
+}
+h1{
+margin-left: 50%;
+}
+
+/*Cars*/
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: darkslategray;
+    position: fixed;
+    height: 100%;
+    float: left;
+
+}
+li a{
+    text-decoration: none;
+    padding: 40px 90px;
+    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    display: block;
+
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+.img-cars {
+    float: left;
+    padding-left: 50px;
+}
+.imagecars {
+    float: right;
+    width: 70%;
+}
+h1{
+    margin-left: 50%;
+}
+
+/*Food*/
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: darkslategray;
+    position: fixed;
+    height: 100%;
+    float: left;
+
+}
+li a{
+    text-decoration: none;
+    padding: 40px 90px;
+    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    display: block;
+
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+.food {
+    float: left;
+    padding-left: 50px;
+}
+.imagefood{
+    float: right;
+    width: 70%;
+}
+
+h1{
+  margin-left: 50%;  
+}
+
+/*Towns*/
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: darkslategray;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    
+
+}
+li a{
+    text-decoration: none;
+    padding: 40px 90px;
+    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    display: block;
+
+}
+.Towns{
+    padding-left:50px ;
+    float: left;
+}
+img{
+    height: 350px;
+    width: 300px;
+}
+.Town-names{
+    width: 70%;
+    float: right;
+}
